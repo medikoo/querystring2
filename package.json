@@ -1,7 +1,7 @@
 {
   "name": "querystring2",
-  "version": "0.1.0",
-  "description": "Modular version of `querystring` package",
+  "version": "1.0.0",
+  "description": "Modular and environment agnostic version of node.js querystring package",
   "keywords": [
     "querystring",
     "query"
