@@ -1,5 +1,5 @@
 # querystring2
-## Modular and environment agnostic version of [Node's querystring](http://nodejs.org/api/querystring.html) package
+## Modular and environment agnostic version of Node's [querystring](http://nodejs.org/api/querystring.html) package
 
 Provides two modules `parse` and `stringify`, which work exactly same as Node's `querystring`.
 
