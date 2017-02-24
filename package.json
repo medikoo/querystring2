@@ -2,6 +2,7 @@
   "name": "querystring2",
   "version": "1.0.0",
   "description": "Modular and environment agnostic version of node.js querystring package",
+  "author": "medikoo, Joyent, Inc. and other Node contributors.",
   "keywords": [
     "querystring",
     "query"
@@ -14,6 +15,7 @@
     "xlint": "~0.2.2",
     "xlint-jslint-medikoo": "~0.1.2"
   },
+  "license": "MIT",
   "scripts": {
     "lint": "node node_modules/xlint/bin/xlint --linter=node_modules/xlint-jslint-medikoo/index.js --no-cache --no-stream",
     "lint-console": "node node_modules/xlint/bin/xlint --linter=node_modules/xlint-jslint-medikoo/index.js --watch",
