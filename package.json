@@ -2,6 +2,7 @@
   "name": "querystring2",
   "version": "1.0.0",
   "description": "Modular and environment agnostic version of node.js querystring package",
+  "author": "Node.js contributors, Mariusz Nowak",
   "keywords": [
     "querystring",
     "query"
@@ -18,5 +19,6 @@
     "lint": "node node_modules/xlint/bin/xlint --linter=node_modules/xlint-jslint-medikoo/index.js --no-cache --no-stream",
     "lint-console": "node node_modules/xlint/bin/xlint --linter=node_modules/xlint-jslint-medikoo/index.js --watch",
     "test": "node test/index.js"
-  }
+  },
+  license: "MIT"
 }
