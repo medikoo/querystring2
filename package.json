@@ -20,5 +20,5 @@
     "lint-console": "node node_modules/xlint/bin/xlint --linter=node_modules/xlint-jslint-medikoo/index.js --watch",
     "test": "node test/index.js"
   },
-  license: "MIT"
+  "license": "MIT"
 }
