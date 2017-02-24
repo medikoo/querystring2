@@ -15,3 +15,10 @@ To port it to Browser or any other (non CJS) environment, use your favorite CJS 
 ## Tests [![Build Status](https://travis-ci.org/medikoo/querystring2.png)](https://travis-ci.org/medikoo/querystring2)
 
 	$ npm test
+
+## License
+
+[MIT](LICENSE): (C) medikoo, Joyent, Inc. and other Node contributors.
+
+<!-- License inherited from https://github.com/nodejs/node/blob/master/LICENSE
+     which has the same wording as https://opensource.org/licenses/MIT -->
